@@ -1,0 +1,10 @@
+Django==3.2
+wagtail==2.15
+pyOpenSSL==21.0.0
+pycrypto==2.6.1
+setuptools-rust>=0.11.4
+graphene==2.1.9
+graphene-django==2.13.0
+wagtail-grapple==0.12.0
+graphene-django-tools==0.21.0
+graphene-resolver==0.1.10
